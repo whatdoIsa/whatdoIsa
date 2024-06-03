@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
   
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=prof-ssong&theme=default)](https://prof-ssong.tistory.com/)
+
 </div><br>
 
 ## 📞 Contact 📞
