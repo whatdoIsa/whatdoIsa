@@ -85,6 +85,10 @@ You can click the Preview link to take a look at your changes.
 - **[ReToU](https://github.com/whatdoIsa/ReToU)**
   - 하루 한 줄 감정 회고 및 자기 성찰 iOS 앱
   - `SwiftUI` `CoreData` `Face ID` `Charts`
+ 
+- **[DisplayCut](https://github.com/whatdoIsa/DisplayCut)**
+  - iOS 디스플레이 관련 유틸리티 앱
+  - `Swift` `UIKit` `Xcode`
 
 - **[MyLoveCoffee](https://github.com/whatdoIsa/MyLoveCoffee)**
   - 위치 기반 카페 검색 및 리뷰 플랫폼
@@ -107,10 +111,11 @@ React의 Props Drilling → SwiftUI의 `@Binding`, Flexbox/Grid → LazyVStack/L
 
 ## GitHub Stats
 
-![Dean's GitHub stats](https://github-readme-stats.vercel.app/api?username=whatdoIsa&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whatdoIsa&layout=compact&theme=default)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whatdoIsa&show_icons=true&theme=default&hide_border=true" alt="Dean's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatdoIsa&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</div>
 ---
 
 ## Contact
