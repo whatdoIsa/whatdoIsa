@@ -109,15 +109,6 @@ React의 Props Drilling → SwiftUI의 `@Binding`, Flexbox/Grid → LazyVStack/L
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whatdoIsa&show_icons=true&theme=default&hide_border=true" alt="Dean's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatdoIsa&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</div>
----
-
 ## Contact
 
 - Email: [gmlwns5504@naver.com](mailto:gmlwns5504@naver.com)
