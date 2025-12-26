@@ -51,15 +51,15 @@ You can click the Preview link to take a look at your changes.
 ## Featured Projects
 
 ### App Store Published
-- **[ShowX](https://apps.apple.com/kr/app/showx/id6755496321)** (평점 5.0)
+- **[ShowX](https://apps.apple.com/kr/app/showx/id6755496321)**
   - 쇼케이스 2025 전용 실내지도 앱
   - `SwiftUI` `MapKit` `Indoor Positioning` `Localization`
-  - Apple Developer Academy @ POSTECH Micro Challenge 3
+  - Apple Developer Academy @ POSTECH Challenge 6
 
-- **[kip!](https://apps.apple.com/kr/app/kip/id6754709167)** (평점 5.0)
+- **[kip!](https://apps.apple.com/kr/app/kip/id6754709167)**
   - 온디바이스 AI 기반 스크린샷 자동 정리 생산성 앱
   - `SwiftUI` `Apple Intelligence` `CoreML` `Vision`
-  - Apple Developer Academy @ POSTECH Micro Challenge 3
+  - Apple Developer Academy @ POSTECH Challenge 6
 
 ### Team Projects
 - **[HOTSPOT](https://github.com/NOP-YA/junction-2025-app)**
