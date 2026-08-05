@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 - App Store 출시 4종 — iOS 앱 ReToU·ShowX·kip!, macOS 앱 SmartEdge
 - 기획 → 개발 → 심사 대응 → 출시까지 혼자 완주한 경험 다수
 - **Apple Developer Academy @ POSTECH 4기**
-- Zerobase Frontend School 23기 수료
+- Zerobase Frontend School 23기
 
 ---
 
@@ -76,10 +76,6 @@ You can click the Preview link to take a look at your changes.
   - 자체 시장 시뮬레이션 엔진 위에서 거래 습관을 훈련하는 주식 입문 앱
   - `SwiftUI` `SwiftData` `CloudKit` `StoreKit 2` `WidgetKit` `XCTest 105개`
 
-- **[DisplayCut](https://github.com/whatdoIsa/DisplayCut)** — 직접 배포 준비
-  - 전역 단축키로 창을 배치하는 macOS 메뉴 바 유틸리티
-  - `AppKit` `Accessibility API` `Carbon HotKey`
-
 ### Team Projects
 - **[HOTSPOT](https://github.com/NOP-YA/junction-2025-app)**
   - AI 기반 산불 조기 감지 및 커뮤니티 알림 시스템
@@ -132,7 +128,7 @@ React의 Props Drilling → SwiftUI의 `@Binding`, Flexbox/Grid → LazyVStack/L
 ## Education & Experience
 
 - **Apple Developer Academy @ POSTECH** - 4기 (2025)
-- **Zerobase Frontend School** - 23기 수료 (2024)
+- **Zerobase Frontend School** - 23기 (2024)
 - **Seoul, South Korea**
 
 ---
